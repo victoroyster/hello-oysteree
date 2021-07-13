@@ -2,9 +2,18 @@
 
 👇 Instructions
 1. Fork this repository to your profile
-2. Create a branch called **favorite-food** where you add a file called *my-food.txt* containing your favorite food. Submit a PR to the main branch in this repository.
-3. Create a branch called **favorite-places** where you add a file called *touring.txt* containing your favorite museums in town. Submit a PR to the main branch in this repository.
-4. Create a branch called **favorite-places** where you add a file called *touring.txt* containing your favorite museums in town. Submit a PR to the main branch in this repository.
+2. Create a branch called **favorite-food** from main.
+    - add a file called *my-food.txt* containing your favorite food
+    - combine *luisejrobles* branch changes into yours.
+    - submit a PR to the main branch in this repository.
+4. Create a branch called **favorite-places** from main.
+    - add a file called *touring.txt* containing your favorite museums in town
+    - combine *luisejrobles* branch changes into yours.
+    - submit a PR to the main branch in this repository.
+6. Create a branch called **tech-stack** from main.
+    - add a file called *fav-stack.txt* containing your current technology stack and what you want to learn.
+    - combine *luisejrobles* branch changes into yours.
+    - submit a PR to the main branch in this repository.
 
 
 
