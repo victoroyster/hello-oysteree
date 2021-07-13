@@ -1,22 +1,22 @@
 # hello-oysteree
 
-👇 Instructions
-1. Fork this repository to your profile
-2. Create a branch called **favorite-food** from main.
-    - add a file called *my-food.txt* containing your favorite food
-    - combine *luisejrobles* branch changes into yours.
-    - submit a PR to the main branch in this repository.
-4. Create a branch called **favorite-places** from main.
-    - add a file called *touring.txt* containing your favorite museums in town
-    - combine *luisejrobles* branch changes into yours.
-    - submit a PR to the main branch in this repository.
-6. Create a branch called **tech-stack** from main.
-    - add a file called *fav-stack.txt* containing your current technology stack and what you want to learn.
-    - combine *luisejrobles* branch changes into yours.
-    - submit a PR to the main branch in this repository.
+👇 Instrucciones
+1. Haz un fork de este repositorio a tu perfil
+2. Crea una rama llamada **favorite-food** desde main.
+    - agrega un archivo llamado *my-food.txt* donde listes tu comida favorita
+    - combina los cambios contenidos en la rama *luisejrobles* 
+    - haz un Pull Request hacia la rama main de este repositorio.
+3. Crea una rama llamada **favorite-places** desde main.
+    - agrega un archivo llamado *touring.txt* donde listes tus museos favoritos de la ciudad.
+    - combina los cambios contenidos en la rama *luisejrobles*.
+    - haz un Pull Request hacia la rama main de este repositorio.
+4. Crea una rama llamada **tech-stack** desde main.
+    - agrega un archivo llamado *fav-stack.txt* donde listes tu stack de tecnologías utilizado o lo que quieras aprender este año.
+    - combina los cambios contenidos en la rama *luisejrobles* 
+    - haz un Pull Request hacia la rama main de este repositorio.
 
 
 
-- What *git command* can you apply when you want to change to another branch but you have unstaged changes without losing them?
-- When a conflict can occur?
-- What can we do when the **remote repository** has changes that our local doesn't have and we want to push our changes?
+- Qué *comando de git* se puede aplicar cuando te quieres cambiar a otra rama pero tienes cambios *unstaged* y no quieres perderlos ?
+- Cuándo un conflicto puede ocurrir?
+- Qué podemos hacer cuando el **repositorio remoto** tiene cambios que nuestro **repositorio local** no, pero queremos empujar nuestros cambios?
