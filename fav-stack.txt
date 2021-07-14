@@ -1,0 +1,4 @@
+Git
+Node JS
+Angular JS
+SCRUM
